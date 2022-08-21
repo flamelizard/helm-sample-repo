@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-08-21T16:34:30.4076129+02:00"
+entries:
+  hello-world:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-21T17:38:47.32104+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 3a3fcfb14a939e679bb4dd565164f3bef6ec176ba9e1080f8e4324fd9d35738d
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/flamelizard/helm-sample-repo/hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-21T17:38:47.289187+02:00"
